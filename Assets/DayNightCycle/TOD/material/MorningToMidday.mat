@@ -70,7 +70,7 @@ Material:
     m_Floats:
     - _Blend: 1
     m_Colors:
-    - _Tint: {r: 0.48861066, g: 0.5660391, b: 0.5342507, a: 0}
+    - _Tint: {r: 0.63931763, g: 0.64486283, b: 0.64258623, a: 0}
 --- !u!1002 &2100001
 EditorExtensionImpl:
   serializedVersion: 6
